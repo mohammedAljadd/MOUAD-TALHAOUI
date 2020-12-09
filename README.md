@@ -42,4 +42,19 @@
 <br />
 <br />
 
+---
 
+
+
+
+
+[website]: 
+[course]:
+[twitter]:
+[youtube]:
+[instagram]:
+[linkedin]: 
+[webdevplaylist]:
+[jsplaylist]:
+[cssplaylist]:
+[reactplaylist]:
