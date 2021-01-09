@@ -8,6 +8,7 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love sport.
+- ⚡ My favourite saying is All the so-called “secrets of success” will not work unless you do.
 
 
 ### Connect with me:
