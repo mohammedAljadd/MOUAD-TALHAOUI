@@ -21,5 +21,5 @@
 
 💬 The best way to contact me is on [My LinkedIn Profile](https://www.linkedin.com/in/mouad-talhaoui-7a2a99183/)
 
-📫 You can also email me at [talhaouimouad02@gmail.com](mailto:talhaouimouad02@gmail.com)
+📫 You can also email me at [mouad_talhaoui@um5.ac.ma](mailto:mouad_talhaoui@um5.ac.ma)
 
