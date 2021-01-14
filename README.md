@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="100px">
+</p> 
 ### Hi there, I'm Mouad - Talhaoui [MOUAD-TALHAOUI][website] 👋
 
 
