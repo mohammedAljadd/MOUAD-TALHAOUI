@@ -15,9 +15,9 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love sport.
 - ⚡ My favourite saying is All the so-called “secrets of success” will not work unless you do.
-
+<p align="center">
 [![MOUAD-TALHAOUI's github stats](https://github-readme-stats.vercel.app/api?username=MOUAD-TALHAOUI&count_private=true&theme=gruvbox)](https://github.com/MOUAD-TALHAOUI/github-readme-stats)
-
+</p> 
 🤔 If you wanna know more about me here is [My Online Portfolio](link).
 
 💬 The best way to contact me is on [My LinkedIn Profile](https://www.linkedin.com/in/mouad-talhaoui-7a2a99183/)
