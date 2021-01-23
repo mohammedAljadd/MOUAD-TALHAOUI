@@ -26,8 +26,52 @@
     </p>
 </a>
 
+<p>
+  <a href="https://github.com/deepraj1729/TChatBot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=deepraj1729&repo=TChatBot&show_icons=true&theme=radical" />
+  </a>
+  <a href="https://github.com/deepraj1729/Self-Driving-Cars">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=deepraj1729&repo=Self-Driving-Cars&show_icons=true&theme=radical" />
+  </a>
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=MOUAD-TALHAOUI&count_private=true&&show_icons=true&title_color=08fdd8&icon_color=bb2acf&text_color=ffffff&bg_color=242424" width="100%"/>
+<p>
+  <a href="https://github.com/deepraj1729/EasyOCR">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=deepraj1729&repo=EasyOCR&show_icons=true&theme=radical" />
+  </a>
+  <a href="https://github.com/deepraj1729/TChatBot-API">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=deepraj1729&repo=TChatBot-API&show_icons=true&theme=radical" />
+  </a>
+</p>
+
+<p>
+  <a href="https://github.com/deepraj1729/AstroML">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=deepraj1729&repo=AstroML&show_icons=true&theme=radical" />
+  </a>
+  <a href="https://github.com/deepraj1729/yplate">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=deepraj1729&repo=yplate&show_icons=true&theme=radical" />
+  </a>
+</p>
+
+<p>
+  <a href="https://github.com/deepraj1729/DeepML">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=deepraj1729&repo=DeepML&show_icons=true&theme=radical" />
+  </a>
+  <a href="https://github.com/deepraj1729/MetaML">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=deepraj1729&repo=MetaML&show_icons=true&theme=radical" />
+  </a>
+</p>
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deepraj1729&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
+
+## Social Links:
+
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="35" height="35"/>](https://www.linkedin.com/in/deep1729/) [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="35" height="35"/>](https://twitter.com/BaidyaDeepraj) [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="35" height="35"/>](https://www.instagram.com/deepraj_1729) [<img src="https://img.icons8.com/color/48/000000/facebook.png" width="35" height="35"/>](https://www.facebook.com/deepraj1729) [<img src="https://raw.githubusercontent.com/deepraj1729/deepraj1729/master/Assets/spotify.png" width="35" height="35"/>](https://open.spotify.com/user/31nsygh3g7m4uh3i57xli666drri) [<img src="https://raw.githubusercontent.com/deepraj1729/deepraj1729/master/Assets/icons8-discord-96.png" width="35" height="35"/>](https://discord.gg/76taH6Wp)
+
+#### Have a great day ☺️
+
+
 
  <!-- programming langs i work-->
 <p align="center">
