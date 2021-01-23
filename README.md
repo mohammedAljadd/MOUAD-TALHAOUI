@@ -102,7 +102,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="25px" height="25px"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="25px" height="25px"/>
 </p>
- ### 🔧 &nbsp; Technologies & Tools...
+ ###Technologies & Tools...
 <p align="center">
 
   <!-- For more icons follow : https://github.com/MikeCodesDotNET/ColoredBadges -->
