@@ -19,6 +19,14 @@
 - ⚡ Fun fact: I love sport.
 - ⚡ My favourite saying is All the so-called “secrets of success” will not work unless you do.
 
+<!-- status codes -->
+<a align="center" href="https://arshiamidos.github.io">
+    <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=arshiamidos&show_icons=true&theme=tokyonight" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arshiamidos&layout=compact&theme=tokyonight" alt="languages" height="165">
+    </p>
+</a>
+
+
 [![MOUAD-TALHAOUI's github stats](https://github-readme-stats.vercel.app/api?username=MOUAD-TALHAOUI&count_private=true&theme=gruvbox)](https://github.com/MOUAD-TALHAOUI/github-readme-stats)
  
 🤔 If you wanna know more about me here is [My Online Portfolio](link).
