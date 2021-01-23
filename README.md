@@ -20,17 +20,14 @@
 - ⚡ My favourite saying is All the so-called “secrets of success” will not work unless you do.
 
 <!-- status codes -->
-<a align="center" href="https://arshiamidos.github.io">
+<a align="center" href="">
     <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=arshiamidos&show_icons=true&theme=tokyonight" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arshiamidos&layout=compact&theme=tokyonight" alt="languages" height="165">
+    <img src="https://github-readme-stats.vercel.app/api?username=MOUAD-TALHAOUI&show_icons=true&theme=tokyonight" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MOUAD-TALHAOUI&layout=compact&theme=tokyonight" alt="languages" height="165">
     </p>
 </a>
 
-<a align="center" href="https://arshiamidos.github.io">
-    <p align="center">
 [![MOUAD-TALHAOUI's github stats](https://github-readme-stats.vercel.app/api?username=MOUAD-TALHAOUI&count_private=true&theme=gruvbox)](https://github.com/MOUAD-TALHAOUI/github-readme-stats)
-    </p>
-</a>
+
  <!-- programming langs i work-->
 <p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="25px" height="25px"/>
