@@ -129,3 +129,27 @@ Nickname: 旋風之音 GoneTone
 
 📫 You can also email me at [mouad_talhaoui@um5.ac.ma](mailto:mouad_talhaoui@um5.ac.ma)
 
+
+## 😂 Fun fact
+  Peanuts aren’t technically nuts
+
+<br/>
+
+
+<p align="center"><a target="https://github.com/SantanuxD/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SantanuxD&theme=onedark&row=2&column=3&margin-w=15&margin-h=15"></a></p>
+
+<p align="center"><a target="https://github.com/SantanuxD/github-profile-trophy"><img src="https://metrics.lecoq.io/SantanuxD"></a></p>
+
+<p align="center"><a target="https://github.com/SantanuxD/github-profile-trophy"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SantanuxD"></a></p>
+
+
+
+<p align="center"><a target="blank"><img src="https://visitor-badge.laobi.icu/badge?page_id=SantanuxD"></a></p>
+<p align="center">
+  <a href="https://twitter.com/Santanu97990818"><img align="center" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
+  <a target="_blank"href="https://www.linkedin.com/in/santanu-biswas-1482591a7/"><img align="center" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+  <a target="_blank"href="https://www.instagram.com/_.santanubiswas._/"><img align="center" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
+</p>
+
+
+
