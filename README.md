@@ -61,6 +61,20 @@
 
 
 
+
+
+<br/>
+
+
+<p align="center"><a target="https://github.com/MOUAD-TALHAOUI/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MOUAD-TALHAOUI&theme=onedark&row=2&column=3&margin-w=15&margin-h=15"></a></p>
+
+<p align="center"><a target="https://github.com/MOUAD-TALHAOUI/github-profile-trophy"><img src="https://metrics.lecoq.io/MOUAD-TALHAOUI"></a></p>
+
+<p align="center"><a target="https://github.com/MOUAD-TALHAOUI/github-profile-trophy"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MOUAD-TALHAOUI"></a></p>
+
+
+
+
 ## Social Links:
 
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="35" height="35"/>](https://www.linkedin.com/in/deep1729/) [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="35" height="35"/>](https://twitter.com/BaidyaDeepraj) [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="35" height="35"/>](https://www.instagram.com/deepraj_1729) [<img src="https://img.icons8.com/color/48/000000/facebook.png" width="35" height="35"/>](https://www.facebook.com/deepraj1729) [<img src="https://raw.githubusercontent.com/deepraj1729/deepraj1729/master/Assets/spotify.png" width="35" height="35"/>](https://open.spotify.com/user/31nsygh3g7m4uh3i57xli666drri) [<img src="https://raw.githubusercontent.com/deepraj1729/deepraj1729/master/Assets/icons8-discord-96.png" width="35" height="35"/>](https://discord.gg/76taH6Wp)
@@ -111,18 +125,6 @@
 💬 The best way to contact me is on [My LinkedIn Profile](https://www.linkedin.com/in/mouad-talhaoui-7a2a99183/)
 
 📫 You can also email me at [mouad_talhaoui@um5.ac.ma](mailto:mouad_talhaoui@um5.ac.ma)
-
-
-<br/>
-
-
-<p align="center"><a target="https://github.com/MOUAD-TALHAOUI/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MOUAD-TALHAOUI&theme=onedark&row=2&column=3&margin-w=15&margin-h=15"></a></p>
-
-<p align="center"><a target="https://github.com/MOUAD-TALHAOUI/github-profile-trophy"><img src="https://metrics.lecoq.io/MOUAD-TALHAOUI"></a></p>
-
-<p align="center"><a target="https://github.com/MOUAD-TALHAOUI/github-profile-trophy"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MOUAD-TALHAOUI"></a></p>
-
-
 
 
 
