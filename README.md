@@ -27,6 +27,7 @@
 </a>
 
 [![MOUAD-TALHAOUI's github stats](https://github-readme-stats.vercel.app/api?username=MOUAD-TALHAOUI&count_private=true&theme=gruvbox)](https://github.com/MOUAD-TALHAOUI/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=deepraj1729&count_private=true&&show_icons=true&title_color=08fdd8&icon_color=bb2acf&text_color=ffffff&bg_color=242424" width="100%"/>
 
  <!-- programming langs i work-->
 <p align="center">
