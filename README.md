@@ -45,8 +45,10 @@
     <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=MOUAD-TALHAOUI&show_icons=true&theme=tokyonight" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MOUAD-TALHAOUI&layout=compact&theme=tokyonight" alt="languages" height="165">
     </p>
+    </p>
 
-<p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MOUAD-TALHAOUI&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
   <a href="https://github.com/MOUAD-TALHAOUI/TChatBot">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=deepraj1729&repo=TChatBot&show_icons=true&theme=radical" />
   </a>
@@ -60,7 +62,6 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MOUAD-TALHAOUI&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Social Links:
 
