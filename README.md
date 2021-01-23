@@ -39,7 +39,7 @@
 
 
 [![](https://raw.githubusercontent.com/MOUAD-TALHAOUI/MOUAD-TALHAOUI/master/profile-summary-card-output/vue/0-profile-details.svg)](https://github.com/GoneTone)
-[![](https://raw.githubusercontent.com/MOUAD-TALHAOUI/MOUAD-TALHAOUI/master/profile-summary-card-output/vue/1-repos-per-language.svg)](https://github.com/GoneTone)
+[![](https://raw.githubusercontent.com/MOUAD-TALHAOUI/MOUAD-TALHAOUI/master/profile-summary-card-output/vue/1-repos-per-language.svg)](https://github.com/MOUAD-TALHAOUI)
 [![](https://raw.githubusercontent.com/GoneTone/GoneTone/master/profile-summary-card-output/vue/2-most-commit-language.svg)](https://github.com/GoneTone)
 
 ## <img src="https://raw.githubusercontent.com/GoneTone/GoneTone/master/images/svg/social/users-solid.svg" height="24px" alt="Social">
