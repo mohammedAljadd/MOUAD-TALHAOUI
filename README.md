@@ -126,7 +126,7 @@
 
 <p align="center"><a target="https://github.com/SantanuxD/github-profile-trophy"><img src="https://metrics.lecoq.io/SantanuxD"></a></p>
 
-<p align="center"><a target="https://github.com/SantanuxD/github-profile-trophy"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SantanuxD"></a></p>
+<p align="center"><a target="https://github.com/MOUAD-TALHAOUI/github-profile-trophy"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MOUAD-TALHAOUI"></a></p>
 
 
 
