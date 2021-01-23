@@ -35,32 +35,9 @@
   </a>
 </p>
 
-<p>
-  <a href="https://github.com/MOUAD-TALHAOUI/EasyOCR">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MOUAD-TALHAOUI&repo=EasyOCR&show_icons=true&theme=radical" />
-  </a>
-  <a href="https://github.com/MOUAD-TALHAOUI/TChatBot-API">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MOUAD-TALHAOUI&repo=TChatBot-API&show_icons=true&theme=radical" />
-  </a>
-</p>
 
-<p>
-  <a href="https://github.com/MOUAD-TALHAOUI/AstroML">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MOUAD-TALHAOUI&repo=AstroML&show_icons=true&theme=radical" />
-  </a>
-  <a href="https://github.com/deepraj1729/yplate">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MOUAD-TALHAOUI&repo=yplate&show_icons=true&theme=radical" />
-  </a>
-</p>
 
-<p>
-  <a href="https://github.com/deepraj1729/DeepML">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MOUAD-TALHAOUI&repo=DeepML&show_icons=true&theme=radical" />
-  </a>
-  <a href="https://github.com/deepraj1729/MetaML">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MOUAD-TALHAOUI&repo=MetaML&show_icons=true&theme=radical" />
-  </a>
-</p>
+
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MOUAD-TALHAOUI&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
