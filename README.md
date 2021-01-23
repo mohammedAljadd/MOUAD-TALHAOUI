@@ -44,6 +44,17 @@ I love to work with new technologies and playing with Data and AI.🤖
 - ⚡ Fun fact: I love sport.
 - ⚡ My favourite saying is All the so-called “secrets of success” will not work unless you do.
 
+Profile
+Name: 張文相 Zhang Wenxiang
+<br>
+Nickname: 旋風之音 GoneTone
+
+[![](https://raw.githubusercontent.com/GoneTone/GoneTone/master/profile-summary-card-output/vue/0-profile-details.svg)](https://github.com/GoneTone)
+[![](https://raw.githubusercontent.com/GoneTone/GoneTone/master/profile-summary-card-output/vue/1-repos-per-language.svg)](https://github.com/GoneTone)
+[![](https://raw.githubusercontent.com/GoneTone/GoneTone/master/profile-summary-card-output/vue/2-most-commit-language.svg)](https://github.com/GoneTone)
+
+## <img src="https://raw.githubusercontent.com/GoneTone/GoneTone/master/images/svg/social/users-solid.svg" height="24px" alt="Social">
+
 <!-- status codes -->
 <a align="center" href="">
     <p align="center">
