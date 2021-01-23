@@ -7,7 +7,7 @@
 
 <a target="_blank" href="https://harunurrashid97.github.io/"><img width="550" align="right" src="https://raw.githubusercontent.com/harunurrashid97/harunurrashid97/master/Programmer-I.gif"></a>
 
-# Harun-Ur-Rashid
+# Mouad Talhaoui
 
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:harunurrashid47@hotmail.com?subject=From%20GitHub&cc=harun15-6647@diu.edu.bd&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
 [![Twitter Follow](https://img.shields.io/badge/dynamic/json.svg?color=14171A&labelColor=37474f&logo=twitter&logoColor=4fc3f7&label=&query=%24[0].followers_count&url=https%3A%2F%2Fcdn.syndication.twimg.com%2Fwidgets%2Ffollowbutton%2Finfo.json%3Fscreen_names%3Dharunurrashid97&suffix=%20Followers)](https://twitter.com/harunurrashid97)
@@ -18,11 +18,12 @@
 [![Patreon](https://img.shields.io/badge/%20-Support-black?color=14171A&labelColor=04945c&logo=patreon&logoColor=ffffff)](https://www.patreon.com/harunurrashid)
 
 
-:wave: Hi there, My name is Harun-Ur-Rashid.😀 I'm 23 years old, I'm a self-taught Data Scientist.
-I've profound knowledge in Machine Learning, Deep Learning, Natural language processing, AI Software Development. 
-Currently, I completed Undergraduate in CSE from 🇧🇩. 
-I'm interested in doing research on text and image related problems. 
-I love to work with new technologies and playing with Data and AI.🤖
+:wave: Hi there, My name is Mouad talhaoui.😀 I'm 23 years old, I'm a self-taught Data Scientist.
+- 🌱 I’m currently learning everything 🤣
+- 👯 I’m looking to collaborate with other content creators
+- 🥅 2020 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I love sport.
+- ⚡ My favourite saying is All the so-called “secrets of success” will not work unless you do.
 
 
 
@@ -38,11 +39,7 @@ I love to work with new technologies and playing with Data and AI.🤖
 </br>
 
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love sport.
-- ⚡ My favourite saying is All the so-called “secrets of success” will not work unless you do.
+
 
 Profile
 Name: 張文相 Zhang Wenxiang
