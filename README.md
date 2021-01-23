@@ -116,9 +116,6 @@
 📫 You can also email me at [mouad_talhaoui@um5.ac.ma](mailto:mouad_talhaoui@um5.ac.ma)
 
 
-## 😂 Fun fact
-  Peanuts aren’t technically nuts
-
 <br/>
 
 
