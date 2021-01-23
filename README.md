@@ -74,6 +74,8 @@
   <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
   <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/java.svg" alt="java" style="vertical-align:top; margin:4px">
   <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
+    <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/frameworks/springboot.svg" alt="springboot" style="vertical-align:top; margin:4px">
+
 
 
 
