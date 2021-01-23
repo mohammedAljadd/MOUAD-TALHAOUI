@@ -16,7 +16,7 @@
 - ⚡ Fun fact: I love sport.
 - ⚡ My favourite saying is All the so-called “secrets of success” will not work unless you do.
 
-[![MOUAD-TALHAOUI's github stats](https://github-readme-stats.vercel.app/api?username=MOUAD-TALHAOUI&count_private=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+[![MOUAD-TALHAOUI's github stats](https://github-readme-stats.vercel.app/api?username=MOUAD-TALHAOUI&count_private=true&theme=gruvbox)](https://github.com/MOUAD-TALHAOUI/github-readme-stats)
 
 🤔 If you wanna know more about me here is [My Online Portfolio](link).
 
