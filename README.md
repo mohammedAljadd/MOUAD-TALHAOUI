@@ -3,6 +3,31 @@
 
 
 ## I'm Developer!!
+
+
+<a target="_blank" href="https://harunurrashid97.github.io/"><img width="550" align="right" src="Programmer-I.gif"></a>
+
+# Harun-Ur-Rashid
+
+[![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:harunurrashid47@hotmail.com?subject=From%20GitHub&cc=harun15-6647@diu.edu.bd&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
+[![Twitter Follow](https://img.shields.io/badge/dynamic/json.svg?color=14171A&labelColor=37474f&logo=twitter&logoColor=4fc3f7&label=&query=%24[0].followers_count&url=https%3A%2F%2Fcdn.syndication.twimg.com%2Fwidgets%2Ffollowbutton%2Finfo.json%3Fscreen_names%3Dharunurrashid97&suffix=%20Followers)](https://twitter.com/harunurrashid97)
+[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/harun-ur-rashid6647/)
+
+[![Medium Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=050404&logo=medium&logoColor=ffffff)](https://towardsdatascience.com/@harunurrashid97)
+[![Kaggle Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=37474f&logo=kaggle&logoColor=4fc3f7)](https://kaggle.com/harunshimanto)
+[![Patreon](https://img.shields.io/badge/%20-Support-black?color=14171A&labelColor=04945c&logo=patreon&logoColor=ffffff)](https://www.patreon.com/harunurrashid)
+
+
+:wave: Hi there, My name is Harun-Ur-Rashid.😀 I'm 23 years old, I'm a self-taught Data Scientist.
+I've profound knowledge in Machine Learning, Deep Learning, Natural language processing, AI Software Development. 
+Currently, I completed Undergraduate in CSE from 🇧🇩. 
+I'm interested in doing research on text and image related problems. 
+I love to work with new technologies and playing with Data and AI.🤖
+
+
+
+
+
 <!-- first row -->
 <p align="center">
 <a href=""><img src="https://camo.githubusercontent.com/38bf262e2c177202fedef68851784c63dad5bb64/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6172736869616d69646f73"><img alt="GitHub" src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Darshiamidos&longCache=true">
