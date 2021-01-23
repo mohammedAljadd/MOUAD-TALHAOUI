@@ -27,43 +27,43 @@
 </a>
 
 <p>
-  <a href="https://github.com/deepraj1729/TChatBot">
+  <a href="https://github.com/MOUAD-TALHAOUI/TChatBot">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=deepraj1729&repo=TChatBot&show_icons=true&theme=radical" />
   </a>
-  <a href="https://github.com/deepraj1729/Self-Driving-Cars">
+  <a href="https://github.com/MOUAD-TALHAOUI/Self-Driving-Cars">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=deepraj1729&repo=Self-Driving-Cars&show_icons=true&theme=radical" />
   </a>
 </p>
 
 <p>
-  <a href="https://github.com/deepraj1729/EasyOCR">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=deepraj1729&repo=EasyOCR&show_icons=true&theme=radical" />
+  <a href="https://github.com/MOUAD-TALHAOUI/EasyOCR">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MOUAD-TALHAOUI&repo=EasyOCR&show_icons=true&theme=radical" />
   </a>
-  <a href="https://github.com/deepraj1729/TChatBot-API">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=deepraj1729&repo=TChatBot-API&show_icons=true&theme=radical" />
+  <a href="https://github.com/MOUAD-TALHAOUI/TChatBot-API">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MOUAD-TALHAOUI&repo=TChatBot-API&show_icons=true&theme=radical" />
   </a>
 </p>
 
 <p>
-  <a href="https://github.com/deepraj1729/AstroML">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=deepraj1729&repo=AstroML&show_icons=true&theme=radical" />
+  <a href="https://github.com/MOUAD-TALHAOUI/AstroML">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MOUAD-TALHAOUI&repo=AstroML&show_icons=true&theme=radical" />
   </a>
   <a href="https://github.com/deepraj1729/yplate">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=deepraj1729&repo=yplate&show_icons=true&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MOUAD-TALHAOUI&repo=yplate&show_icons=true&theme=radical" />
   </a>
 </p>
 
 <p>
   <a href="https://github.com/deepraj1729/DeepML">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=deepraj1729&repo=DeepML&show_icons=true&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MOUAD-TALHAOUI&repo=DeepML&show_icons=true&theme=radical" />
   </a>
   <a href="https://github.com/deepraj1729/MetaML">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=deepraj1729&repo=MetaML&show_icons=true&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MOUAD-TALHAOUI&repo=MetaML&show_icons=true&theme=radical" />
   </a>
 </p>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deepraj1729&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MOUAD-TALHAOUI&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Social Links:
 
