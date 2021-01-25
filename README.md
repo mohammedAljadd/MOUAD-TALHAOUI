@@ -33,11 +33,11 @@
     </p>
     </p>
 <p align="center">
-  <a href="https://github.com/MOUAD-TALHAOUI/TChatBot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=deepraj1729&repo=TChatBot&show_icons=true&theme=radical" />
+  <a href="https://github.com/MOUAD-TALHAOUI/BullTricker">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MOUAD-TALHAOUI&repo=BullTricker&show_icons=true&theme=radical" />
   </a>
-  <a href="https://github.com/MOUAD-TALHAOUI/Self-Driving-Cars">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=deepraj1729&repo=Self-Driving-Cars&show_icons=true&theme=radical" />
+  <a href="https://github.com/MOUAD-TALHAOUI/BullTricker">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MOUAD-TALHAOUI&repo=BullTricker&show_icons=true&theme=radical" />
   </a>
 </p>
 
