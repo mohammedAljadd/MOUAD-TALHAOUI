@@ -16,7 +16,7 @@
 - ⚡ My favourite saying is All the so-called “secrets of success” will not work unless you do.
 -
 -
-
+-
 
 
 
@@ -25,6 +25,7 @@
 
 
 
+[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42cursus&dark=true&email=hide&login=talhaoui-mouad)](https://github.com/talhaoui-mouad/1337-readme)
 
 
 
