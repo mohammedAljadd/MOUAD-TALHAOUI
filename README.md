@@ -2,7 +2,7 @@
 ### Hi there, I'm [MOUAD TALHAOUI](https://mouad-talhaoui.github.io) 👋
 
 
-<a target="_blank" href="https://harunurrashid97.github.io/"><img width="550" align="right" src="https://raw.githubusercontent.com/harunurrashid97/harunurrashid97/master/Programmer-I.gif"></a>
+<a target="_blank" href="https://MOUAD-TALHAOUI.github.io/"><img width="550" align="right" src="https://raw.githubusercontent.com/harunurrashid97/harunurrashid97/master/Programmer-I.gif"></a>
 
 # Mouad Talhaoui
 
