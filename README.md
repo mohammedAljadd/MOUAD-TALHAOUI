@@ -8,10 +8,10 @@
 
 
 
-:wave: Hi there, My name is Mouad talhaoui.😀 I'm 22 years old, I'm a self-taught Data Scientist.<br />
+:wave: Hi there, My name is Mouad talhaoui.😀 I'm 22 years old<!--, I'm a self-taught Data Scientist.--><br />
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 
+- 
 <br /><br /><br />
 <br /><br /><br />
 <!-- first row -->
