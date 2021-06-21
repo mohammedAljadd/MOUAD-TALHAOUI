@@ -34,8 +34,8 @@
   <a href="https://github.com/MOUAD-TALHAOUI/BullTricker">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=MOUAD-TALHAOUI&repo=BullTricker&show_icons=true&theme=radical" />
   </a>
-  <a href="https://github.com/MOUAD-TALHAOUI/BullTricker">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MOUAD-TALHAOUI&repo=BullTricker&show_icons=true&theme=radical" />
+  <a href="https://github.com/MOUAD-TALHAOUI/Louezz">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MOUAD-TALHAOUI&repo=Louezz&show_icons=true&theme=radical" />
   </a>
 </p>
 
