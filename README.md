@@ -9,8 +9,8 @@
 
 
 :wave: Hi there, My name is Mouad talhaoui.😀 I'm 22 years old<!--, I'm a self-taught Data Scientist.--><br />
-- 🌱 I’m currently learning everything 🤣
-- 
+-
+- 🌱 I’m currently learning everything 🤣 
 - 
 <br /><br /><br />
 <br /><br /><br />
