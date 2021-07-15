@@ -43,7 +43,12 @@
 
 
 
-
+<p align="center">
+  <a href="https://github.com/MOUAD-TALHAOUI/ChatApp">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MOUAD-TALHAOUI&repo=ChatApp&show_icons=true&theme=radical" />
+  </a>
+ 
+</p>
 
 
 
