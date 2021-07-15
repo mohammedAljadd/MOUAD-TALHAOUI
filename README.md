@@ -5,7 +5,7 @@ Hi, I'm [Mouad Talhaoui](http://www.mouadtalhaoui.me), a passionate self-taught 
 
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.                
       
-<img src ="https://github.com/MOUAD-TALHAOUI/MOUAD-TALHAOUI/blob/main/code.gif"> 
+<img src ="https://github.com/MOUAD-TALHAOUI/MOUAD-TALHAOUI/blob/main/code.gif" align="center"> 
 - 💬 Ask me about anything, I am happy to help;</br>
 - 📫 How to reach me: [@mouadtalhaoui](talhaouimouad02@gmail.com);</br>
 - 📝 [Resume](http://www.mouadtalhaoui.me)</br>
