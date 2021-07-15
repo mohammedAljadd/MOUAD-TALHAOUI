@@ -8,7 +8,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <img src ="https://github.com/MOUAD-TALHAOUI/MOUAD-TALHAOUI/blob/main/code.gif"> 
 - 💬 Ask me about anything, I am happy to help;</br>
 - 📫 How to reach me: [@mouadtalhaoui](talhaouimouad02@gmail.com);</br>
-- 📝 [Resume](mouadtalhaoui.me)</br>
+- 📝 [Resume](http://www.mouadtalhaoui.me)</br>
 
 
 
