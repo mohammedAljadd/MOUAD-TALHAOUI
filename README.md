@@ -4,8 +4,8 @@
 Hi, I'm [Mouad Talhaoui](http://www.mouadtalhaoui.me), a passionate self-taught Full Stack web developer, mobile , blockchain  and a freelance software engineer from Morocco. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.                
-      
-<img src ="https://github.com/MOUAD-TALHAOUI/MOUAD-TALHAOUI/blob/main/code.gif" align="center"> 
+      <p align="center">
+<img src ="https://github.com/MOUAD-TALHAOUI/MOUAD-TALHAOUI/blob/main/code.gif" > </p>
 - 💬 Ask me about anything, I am happy to help;</br>
 - 📫 How to reach me: [@mouadtalhaoui](talhaouimouad02@gmail.com);</br>
 - 📝 [Resume](http://www.mouadtalhaoui.me)</br>
