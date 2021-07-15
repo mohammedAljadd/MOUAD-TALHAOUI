@@ -1,21 +1,14 @@
 
 ### Hi there, I'm [MOUAD TALHAOUI](https://mouad-talhaoui.github.io) 👋
 
+Hi, I'm [Mouad Talhaoui](mouadtalhaoui.me), a passionate self-taught Full Stack web developer, mobile , blockchain  and a freelance software engineer from Morocco. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
-<a target="_blank" href="https://MOUAD-TALHAOUI.github.io/"><img width="550" align="right" src="https://raw.githubusercontent.com/harunurrashid97/harunurrashid97/master/Programmer-I.gif"></a>
-
-# Mouad Talhaoui
-
-
-
-:wave:
--Hi there, My name is Mouad talhaoui.😀 I'm 22 years old<!--, I'm a self-taught Data Scientist.--><br />
--
-- 🌱 I’m currently learning everything 🤣 
-- 
-<br /><br /><br />
-<br /><br /><br />
-<!-- first row -->
+I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.                
+      
+<img src ="https://github.com/HAFDIAHMED/HAFDIAHMED/blob/master/code.gif"> 
+- 💬 Ask me about anything, I am happy to help;
+- 📫 How to reach me: [@mouadtalhaoui](talhaouimouad02@gmail.com);
+- 📝 [Resume](mouadtalhaoui.me)
 
 
 
