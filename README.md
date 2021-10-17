@@ -71,7 +71,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
   <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/html.svg" alt="js" style="vertical-align:top; margin:4px">
   <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/java.svg" alt="java" style="vertical-align:top; margin:4px">
   <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
-  <img height="20" src="https://www.pngkey.com/png/full/346-3466804_bringing-cdi-to-eclipse-java-jee.png">
+  <img src="hhttps://raw.githubusercontent.com/Quadrified/Quadrified/00036747dc5e86839364e33bfb8b8daf9a8cdc5f/assets/svg/dev/misc/web.svg" alt="npm" style="vertical-align:top; margin:4px">
 
 🤔 If you wanna know more about me here is [My Online Portfolio](https://mouad-talhaoui.github.io).
 
