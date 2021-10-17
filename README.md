@@ -65,18 +65,13 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
   <!-- For more icons follow : https://github.com/MikeCodesDotNET/ColoredBadges -->
 
   <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/frameworks/%20angular.svg" alt="angular" style="vertical-align:top; margin:4px">
-
-      <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/frameworks/%20angular.svg" alt="angular" style="vertical-align:top; margin:4px">
-
-      <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/frameworks/%20angular.svg" alt="angular" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
   <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/python.svg" alt="js" style="vertical-align:top; margin:4px">
-
   <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/html.svg" alt="js" style="vertical-align:top; margin:4px">
   <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/java.svg" alt="java" style="vertical-align:top; margin:4px">
   <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
-  <img src="https://www.pngkey.com/png/full/346-3466804_bringing-cdi-to-eclipse-java-jee.png" alt="npm" style="vertical-align:top; margin:4px">
-      
-        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="npm" style="vertical-align:top; margin:4px">
+
 
 🤔 If you wanna know more about me here is [My Online Portfolio](https://mouad-talhaoui.github.io).
 
