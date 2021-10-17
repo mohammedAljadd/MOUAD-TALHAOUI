@@ -71,6 +71,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
   <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/html.svg" alt="js" style="vertical-align:top; margin:4px">
   <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/java.svg" alt="java" style="vertical-align:top; margin:4px">
   <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
+   <img src="https://raw.githubusercontent.com/Quadrified/Quadrified/00036747dc5e86839364e33bfb8b8daf9a8cdc5f/assets/svg/dev/services/dockerhub.svg" alt="npm" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/Quadrified/Quadrified/00036747dc5e86839364e33bfb8b8daf9a8cdc5f/assets/svg/dev/misc/web.svg" alt="npm" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/Quadrified/Quadrified/00036747dc5e86839364e33bfb8b8daf9a8cdc5f/assets/svg/dev/misc/mobile.svg" alt="npm" style="vertical-align:top; margin:4px">
   
